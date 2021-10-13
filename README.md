@@ -6,27 +6,35 @@ My name is Gauravkumar Mishra, I am a ✨ Software Developer ✨ Android Mobile 
 
 Skills
 <hr>
-https://img.shields.io/badge/Frontend-Android-brightgreen  &#160;
-https://img.shields.io/badge/Language-Java-red  &#160;
-https://img.shields.io/badge/Language-Kotlin-blueviolet  &#160;
-https://img.shields.io/badge/Language-Dart-blue  &#160;
-https://img.shields.io/badge/Language-Python-green  &#160;
-https://img.shields.io/badge/Framework-Flutter-blue  &#160;
-https://img.shields.io/badge/Libraries-RxJava-yellow  &#160;
-https://img.shields.io/badge/Libraries-Coroutine-yellowgreen  &#160;
-https://img.shields.io/badge/Libraries-Retrofit-red  &#160;
-https://img.shields.io/badge/Libraries-Dagger2-blue  &#160;
-https://img.shields.io/badge/Libraries-Koin-yellowgreen &#160;
-https://img.shields.io/badge/Libraries-Hilt-ff69b4  &#160;
-https://img.shields.io/badge/Libraries-JetPack-orange  &#160;
-https://img.shields.io/badge/Architecture-MVVM-brightgreen  &#160;
-https://img.shields.io/badge/Architecture-MVP-9cf  &#160;
-https://img.shields.io/badge/Tools-Git-yellow  &#160;
-https://img.shields.io/badge/Tools-Jira-blue  &#160;
-https://img.shields.io/badge/CI-Jenkins-red  &#160;
-https://img.shields.io/badge/Database-Sqlite-yellow  &#160;
-https://img.shields.io/badge/Database-Room-yellowgreen  &#160;
-https://img.shields.io/badge/Database-MySQL-brigthgreen  &#160;
+<p>
+<a> <img src="https://img.shields.io/badge/Frontend-Android-brightgreen"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Language-Java-red"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Language-Kotlin-blueviolet"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Language-Dart-blue"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Language-Python-green"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Framework-Flutter-blue"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-RxJava-yellow"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-Coroutine-yellowgreen"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-Retrofit-red"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-Dagger2-blue"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-Koin-yellowgreen"></a> &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-Hilt-ff69b4"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-JetPack-orange"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-ViewModel-red"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Libraries-LiveData-green"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Architecture-MVVM-brightgreen"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Architecture-MVP-9cf"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Tools-Git-yellow"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Tools-Jira-blue"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/CI-Jenkins-red"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Database-Sqlite-yellow"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Database-Room-yellowgreen"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Database-MySQL-brigthgreen"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Testing-Espresso-ff69b4"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Testing-Junit-red"></a>  &#160;
+<a> <img src="https://img.shields.io/badge/Testing-Mockito-orange"></a>  &#160;
+  
+</p>
 
 
 🌱  I’m currently learning Flutter application development <br>
