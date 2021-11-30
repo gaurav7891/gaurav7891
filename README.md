@@ -2,7 +2,7 @@
 
 Welcome to My Profile
 
-My name is Gauravkumar Mishra, I am a ✨ Software Developer ✨ Android Mobile application development is my key area of expertise. I love to design apps and code for them, to make the ideas in real. I have worked with different areas to develop the Andorid frontend. I can design, code, test, debug, release everything for mobile application. I have started learning on Flutter application development so that I can contribute in Hybrid application development. I open for Remote jobs/Freelance works/Full time role
+My name is Gauravkumar Mishra, I am a ✨ Software Developer ✨ Android Mobile application development is my key area of expertise. I love to design apps and code for them, to make the ideas in real. I have worked with different areas to develop the Andorid frontend. I can design, code, test, debug, release everything for mobile application. I have started learning on Flutter application development so that I can contribute in Hybrid application development. I am open for Remote jobs/Freelance works/Full time role
 
 Skills
 <hr>
