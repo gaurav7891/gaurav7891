@@ -2,7 +2,26 @@
 
 Welcome to My Profile
 
-My name is Gauravkumar Mishra, I am a ✨ Software Developer ✨ Android Mobile application development is my key area of expertise. I love to design apps and code for them, to make the ideas in real. I have worked with different areas to develop the Andorid frontend. I can design, code, test, debug, release everything for mobile application. I have started learning on Flutter application development so that I can contribute in Hybrid application development. I am open for Remote jobs/Freelance works/Full time role
+I'm Gauravkumar Mishra, a passionate Software Developer specializing in Android mobile application development. I have a knack for transforming ideas into reality through app design and coding. With a strong focus on the Android frontend, I excel in creating robust and user-friendly applications.
+
+🚀 What I Do:
+As an Android developer, I possess a wide range of skills encompassing app design, coding, testing, debugging, and release management. I am well-versed in various areas of Android development, enabling me to deliver comprehensive solutions for mobile applications.
+
+📱 Android Expertise:
+I have hands-on experience in developing native Android applications using Java and Kotlin. I am proficient in leveraging key Android libraries, frameworks, and APIs to create intuitive user interfaces and seamless app experiences. My portfolio showcases successful projects across different domains.
+
+🌱 Expanding to Hybrid Development:
+To broaden my skill set, I have embarked on learning Flutter application development. With this, I aim to contribute to the field of hybrid application development and enhance my versatility as a developer. Stay tuned for exciting cross-platform projects!
+
+💼 Open to Opportunities:
+I am actively seeking remote job opportunities, freelance projects, and full-time roles where I can utilize my expertise and contribute to exciting ventures. If you have a project or collaboration in mind, feel free to reach out to me. Let's discuss how we can create something amazing together!
+
+📫 Connect with Me:
+I would be delighted to connect with fellow developers, recruiters, and collaborators. You can reach me via email at garydevlopment@gmail.com or connect with me on LinkedIn [https://www.linkedin.com/in/gauravkumar-m-811aa5a7/]. Let's exchange ideas, share knowledge, and explore potential collaborations.
+
+Thank you for visiting my profile, and I look forward to connecting with you soon!
+
+Happy coding! 🚀
 
 Skills
 <hr>
